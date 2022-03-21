@@ -112,7 +112,7 @@ Install the following dependencies.
    ```sh
    git clone https://github.com/noirdevelopment/kahootbotter.git
    ```
-3. Install NPM packages
+3. Install PIP packages
    ```sh
    pip install -r requirements.txt
    ```
